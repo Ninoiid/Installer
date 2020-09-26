@@ -3,7 +3,7 @@
 /* header elements */
 
 .background_img {
-	background-image: url(.images/background.jpg);
+	background-image: url(images/background.jpg);
 	font-family: 'Oswald', sans-serif; 
 	height: 100%;
 }
