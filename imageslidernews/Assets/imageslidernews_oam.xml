@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:image_Slider_" name="imageslidernews" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="1050" height="450" />
+
+  <require type="other" src="imageslidernews.html" />
+
+  <require type="javascript" src="imageslidernews_edge.js" />
+  <require type="javascript" src="imageslidernews_edgeActions.js" />
+  <require type="javascript" src="imageslidernews_edgePreload.js" />
+
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/Poster.png" />
+  <require type="image" src="images/_1.jpg" />
+  <require type="image" src="images/_2.jpg" />
+  <require type="image" src="images/_3.jpg" />
+  <require type="image" src="images/_4.jpg" />
+
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="image_Slider_"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="1050" hidden="true"/>
+    <property name="default-height" defaultValue="450" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="imageslidernews.html" hidden="true"/>
+  </properties>
+
+</widget>
