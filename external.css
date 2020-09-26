@@ -34,7 +34,7 @@
 .home {
 	width: 54px;
 	height: 32px;
-	background-image: url(../images/header/home.png);
+	background-image: url(/images/header/home.png);
 	position: absolute;
 	right: 625px;
 	top: 45px;
