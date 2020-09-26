@@ -14,7 +14,7 @@
   <require type="javascript" src="imageslidernews_edgeActions.js" />
   <require type="javascript" src="imageslidernews_edgePreload.js" />
 	
-<require type="folder" src="images"/>
+
 
   <require type="image" src="images/icon.png"/>
   <require type="image" src="images/Poster.png"/>
@@ -23,8 +23,7 @@
   <require type="image" src="images/_3.jpg"/>
   <require type="image" src="images/_4.jpg"/>
 
- 
-
+<require type="folder" src="images"/>
 
   <content><![CDATA[
     <div class="image_Slider_"></div>
