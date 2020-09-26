@@ -26,7 +26,7 @@
 .logo {
 	width: 286px;
 	height: 100px;
-	background-image: url(../images/logo.png);
+	background-image: url(images/logo.png);
 }
 
 /* buttons */
@@ -34,7 +34,7 @@
 .home {
 	width: 54px;
 	height: 32px;
-	background-image: url(/images/header/home.png);
+	background-image: url(images/header/home.png);
 	position: absolute;
 	right: 625px;
 	top: 45px;
@@ -43,7 +43,7 @@
 .news {
 	width: 50px;
 	height: 32px;
-	background-image: url(../images/header/news.png);
+	background-image: url(images/header/news.png);
 	position: absolute;
 	right: 525px;
 	top: 45px;
@@ -52,7 +52,7 @@
 .products {
 	width: 85px;
 	height: 32px;
-	background-image: url(../images/header/products.png);
+	background-image: url(images/header/products.png);
 	position: absolute;
 	right: 390px;
 	top: 45px;
@@ -61,7 +61,7 @@
 .features {
 	width: 79px;
 	height: 32px;
-	background-image: url(../images/header/features.png);
+	background-image: url(images/header/features.png);
 	position: absolute;
 	right: 270px;
 	top: 45px;
@@ -70,7 +70,7 @@
 .archive {
 	width: 69px;
 	height: 32px;
-	background-image: url(../images/header/archive.png);
+	background-image: url(images/header/archive.png);
 	position: absolute;
 	right: 150px;
 	top: 45px;
@@ -79,7 +79,7 @@
 .contact {
 	width: 99px;
 	height: 32px;
-	background-image: url(../images/header/contact.png);
+	background-image: url(images/header/contact.png);
 	position: absolute;
 	right: 0px;
 	top: 45px;
@@ -199,7 +199,7 @@
 .paper {
     width: 650px;
 	height: 750px;
-	background-image: url(../images/home/papertexture.png);
+	background-image: url(images/home/papertexture.png);
 	padding: 25px;
 	margin-top: 30px;
 
